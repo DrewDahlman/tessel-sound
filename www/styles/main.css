@@ -1,0 +1,19 @@
+body {
+	transition: all .1s;
+}
+
+#a{
+	position: absolute;
+	height: 100vh;
+	width: 50vw;
+	top:0px;
+	left: 0px;
+}
+
+#b{
+	position: absolute;
+	height: 100vh;
+	width: 50vw;
+	top: 0px;
+	right: 0px;
+}
